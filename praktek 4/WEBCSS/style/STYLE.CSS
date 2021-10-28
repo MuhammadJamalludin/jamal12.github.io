@@ -73,7 +73,7 @@
                                 .judul_1{
                                     display:block;
                                     height:40px;
-                                    background:#669900;
+                                    background:#2e0099;
                                     font:20pt "Matura MT Script Capitals";
                                     color:#fff;
                                     text-align:center;
@@ -146,7 +146,7 @@
                                                 }
 
                                                 body{
-                                                    background:#00ff99;
+                                                    background-image: url(../images/avatarweb09.png);
                                                     font:10pt 'Matura MT Script Capitals';
                                                     }
 
